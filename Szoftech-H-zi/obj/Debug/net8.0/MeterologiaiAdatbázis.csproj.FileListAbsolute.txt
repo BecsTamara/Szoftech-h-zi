@@ -1,0 +1,15 @@
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\bin\Debug\net8.0\MeterologiaiAdatbázis.exe
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\bin\Debug\net8.0\MeterologiaiAdatbázis.deps.json
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\bin\Debug\net8.0\MeterologiaiAdatbázis.runtimeconfig.json
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\bin\Debug\net8.0\MeterologiaiAdatbázis.dll
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\bin\Debug\net8.0\MeterologiaiAdatbázis.pdb
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\obj\Debug\net8.0\MeterologiaiAdatbázis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\obj\Debug\net8.0\MeterologiaiAdatbázis.AssemblyInfoInputs.cache
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\obj\Debug\net8.0\MeterologiaiAdatbázis.AssemblyInfo.cs
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\obj\Debug\net8.0\MeterologiaiAdatbázis.csproj.CoreCompileInputs.cache
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\obj\Debug\net8.0\MeterologiaiAdatbázis.sourcelink.json
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\obj\Debug\net8.0\MeterologiaiAdatbázis.dll
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\obj\Debug\net8.0\refint\MeterologiaiAdatbázis.dll
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\obj\Debug\net8.0\MeterologiaiAdatbázis.pdb
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\obj\Debug\net8.0\MeterologiaiAdatbázis.genruntimeconfig.cache
+C:\Users\Tamara\source\repos\2025lab06-BecsTamara\MeterologiaiAdatbázis\obj\Debug\net8.0\ref\MeterologiaiAdatbázis.dll

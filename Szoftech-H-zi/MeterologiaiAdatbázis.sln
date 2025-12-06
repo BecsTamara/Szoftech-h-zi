@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeterologiaiAdatbazis", "MeterologiaiAdatbazis.csproj", "{84B467D3-7AC4-4109-A338-205BDD7190AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\Test\Test.csproj", "{916D3E75-5F4F-4058-9A81-728E4B97396A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B467D3-7AC4-4109-A338-205BDD7190AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B467D3-7AC4-4109-A338-205BDD7190AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B467D3-7AC4-4109-A338-205BDD7190AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B467D3-7AC4-4109-A338-205BDD7190AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916D3E75-5F4F-4058-9A81-728E4B97396A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916D3E75-5F4F-4058-9A81-728E4B97396A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916D3E75-5F4F-4058-9A81-728E4B97396A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916D3E75-5F4F-4058-9A81-728E4B97396A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {686AE418-1F17-4EE5-93B9-7051961FDDB0}
+	EndGlobalSection
+EndGlobal
