@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MeterologiaiAdatbazis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b3167a75c12bc0fd5711e092be2fd94fdefe666")]
 [assembly: System.Reflection.AssemblyProductAttribute("MeterologiaiAdatbazis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MeterologiaiAdatbazis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
