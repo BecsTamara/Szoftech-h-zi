@@ -1,26 +1,26 @@
 [
   {
-    "timestamp": "2025-01-01T08:00:00",
-    "value": 12.5,
+    "timestamp": "2025-06-20T14:00:00",
+    "value": 26.5,
     "unit": "°C",
     "source": "import",
-    "sensor": "north_pole_sensor",
+    "sensor": "teto_szenzor_A",
     "category": "Kültér"
   },
   {
-    "timestamp": "2025-01-01T09:00:00",
-    "value": "EZ_HIBAS",
+    "timestamp": "2025-06-20T15:30:00",
+    "value": 15.8,
     "unit": "°C",
     "source": "import",
-    "sensor": "north_pole_sensor",
-    "category": "Kültér"
+    "sensor": "pince_monitor",
+    "category": "Beltér"
   },
   {
-    "timestamp": "2025-01-01T10:00:00",
-    "value": 15.2,
+    "timestamp": "2025-06-20T16:00:00",
+    "value": "ROSSZ_ERTEK",
     "unit": "°C",
     "source": "import",
-    "sensor": "north_pole_sensor",
+    "sensor": "teto_szenzor_A",
     "category": "Kültér"
   }
 ]
