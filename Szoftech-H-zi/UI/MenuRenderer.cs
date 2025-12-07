@@ -11,7 +11,7 @@ namespace MeterologiaiAdatbazis.UI
         public void RenderMenu()
         {
             Console.WriteLine("=====================================");
-            Console.WriteLine("  MÉTEROLÓGIAI ADATBÁZIS RENDSZER");
+            Console.WriteLine("  METEROLÓGIAI ADATBÁZIS RENDSZER");
             Console.WriteLine("=====================================");
             Console.WriteLine();
             Console.WriteLine("1. Adatok importálása (.csv, .json, .xml)");
