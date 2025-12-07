@@ -263,7 +263,7 @@ namespace MeterologiaiAdatbazis.Core
         {
             _jogosultsag.Kovetel(_aktFelhasznalo.Szerep, Role.Admin);
 
-            string uj = _parancsok.BekerSzoveg("Új alapértelmezett mértékegység: ");
+            string uj = _parancsok.BekerSzoveg("Új alapértelmezett mértékegység (C, K, F): ");
 
             try
             {
